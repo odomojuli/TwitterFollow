@@ -3,9 +3,12 @@ quick and dirty mass-follow method
 
 Usage:
 
-Step 2: Open Chrome
-Step 1: Open the Console (shortcut: Command + Option + I)
+Step 1: Open Chrome
+
+Step 2: Open the Console (shortcut: Command + Option + I)
+
 Step 3: Insert code
+
 
 a = setInterval(function () {
   window.scrollTo(0,document.body.scrollHeight);
